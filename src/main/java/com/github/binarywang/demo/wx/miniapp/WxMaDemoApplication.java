@@ -46,4 +46,5 @@ public class WxMaDemoApplication {
         connector.setRedirectPort(443);
         return connector;
     }
+
 }
